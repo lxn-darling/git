@@ -9,3 +9,4 @@ this is a new test for git;
 7.git reset --hard "commit_id" 将当前版本回退到指定的版本
 8. git checkout --filename 撤销文件的全部修改
 9.git rm filename 从版本库中删除文件 如果误删了 任然可以不用git checkout来撤销删除
+10.git push -u origin master 将本地库的所有文件推送到远程库当中去
