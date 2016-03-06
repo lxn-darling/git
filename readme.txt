@@ -6,4 +6,6 @@ this is a new test for git;
 4.git log 查看commit记录
 5.git diff "filename" 查看文件变化
 6.git reflog 记录每一次的命令 
-7. git reset --hard "commit_id" 将当前版本回退到指定的版本
+7.git reset --hard "commit_id" 将当前版本回退到指定的版本
+8. git checkout --filename 撤销文件的全部修改
+9.git rm filename 从版本库中删除文件 如果误删了 任然可以不用git checkout来撤销删除
