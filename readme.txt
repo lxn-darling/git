@@ -6,3 +6,4 @@ this is a new test for git;
 4.git log 查看commit记录
 5.git diff "filename" 查看文件变化
 6.git reflog 记录每一次的命令 
+7. git reset --hard "commit_id" 将当前版本回退到指定的版本
