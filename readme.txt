@@ -5,4 +5,4 @@ this is a new test for git;
 2.git add filename 添加文件到git仓库
 4.git log 查看commit记录
 5.git diff "filename" 查看文件变化
-6.git reflog 
+6.git reflog 记录每一次的命令 
