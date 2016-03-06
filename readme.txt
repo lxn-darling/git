@@ -10,3 +10,7 @@ this is a new test for git;
 8. git checkout --filename 撤销文件的全部修改
 9.git rm filename 从版本库中删除文件 如果误删了 任然可以不用git checkout来撤销删除
 10.git push -u origin master 将本地库的所有文件推送到远程库当中去
+11.git branch 查看分支
+12. git branch <name> 创建分支
+13. git checkout <name> 切换分支
+14. git checkout -b <name> 创建+切换分支
